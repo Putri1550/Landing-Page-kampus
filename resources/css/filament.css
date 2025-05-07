@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ubah warna sidebar */
+.fi-sidebar {
+    background-color: #1a202c !important;
+}
+
+/* Ubah warna teks di sidebar */
+.fi-sidebar a {
+    color: #ffffff !important;
+}
+
+/* Ubah warna tombol */
+.fi-button {
+    background-color: #4CAF50 !important;
+    color: white !important;
+}
