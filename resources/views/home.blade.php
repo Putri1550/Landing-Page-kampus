@@ -5,7 +5,7 @@
     <div class="container position-relative z-index-1">
         <div class="row align-items-center">
             <div class="col-lg-7" data-aos="fade-right">
-                <h1 class="display-3 fw-bold mb-4">Selamat Datang  - <span class="text-warning">Untrim</span></h1>
+                <h1 class="display-3 fw-bold mb-4">Selamat Datang Putri  - <span class="text-warning">Untrim</span></h1>
                 <p class="lead mb-5">Selamat datang di Universitas Triatma Mulya, kampus masa depan yang siap membentuk generasi unggul, kreatif, dan berdaya saing global. Temukan pengalaman belajar terbaik, fasilitas modern, serta lingkungan akademik yang inspiratif untuk mewujudkan mimpimu dan meraih masa depan gemilang bersama kami.
 </p>
                 <div class="d-flex flex-wrap gap-3">
